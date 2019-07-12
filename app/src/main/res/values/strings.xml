@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">KAnime</string>
+    <string name="bg">bg</string>
+    <string name="todo">TODO</string>
 </resources>
