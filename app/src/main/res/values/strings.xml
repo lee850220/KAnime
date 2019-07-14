@@ -2,4 +2,11 @@
     <string name="app_name">KAnime</string>
     <string name="bg">bg</string>
     <string name="todo">TODO</string>
+    <string name="text">你想看什麼</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="search">Search</string>
+    <string name="設定">設定</string>
+    <string name="daniel_malone">Daniel Malone</string>
+    <string name="ccc">ccc</string>
 </resources>
